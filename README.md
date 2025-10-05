@@ -47,12 +47,9 @@ cd mysql_membership_project
 
 3. **Project Structure**
 
-mysql_membership_project/
-
+   mysql_membership_project/
         │
-
         ├── membership_db.sql       # Generated SQL for contributions (after running Python script)
-
         └── README.md
 
 4. **License**
